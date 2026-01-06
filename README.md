@@ -8,7 +8,22 @@
 
 <br clear="both">
 
-<p align="left">🔭 Top 2% Talent on Upwork!<br><br>🚀 8+ years of building enterprise-grade frontend applications with Angular 2+ to 19, Vue.js, Vue 3, and modern JavaScript frameworks. I specialize in crafting pixel-perfect, responsive UIs and scalable frontend architectures that enhance performance and user experience.<br><br>🎯 Whether you're building a SaaS platform, a complex dashboard, or a customer facing web app. I bring clean code, thoughtful architecture, and a keen eye for design to every project.<br><br>    📫 How to reach me muhammadhassank95@gmail.com<br>    📄 Know about my experiences Linkedin</p>
+<p align="left">🔭 Top 2% Talent on Upwork!<br><br>🚀 8+ years of building enterprise-grade frontend applications with Angular 2+ to 19, Vue.js, Vue 3, and modern JavaScript frameworks. I specialize in crafting pixel-perfect, responsive UIs and scalable frontend architectures that enhance performance and user experience.<br><br>🎯 Whether you're building a SaaS platform, a complex dashboard, or a customer facing web app. I bring clean code, thoughtful architecture, and a keen eye for design to every project.<br><br>    📫 How to reach me muhammadhassank95@gmail.com<br>    📄 Know about my experiences Linkedin
+
+<b>Dev Tools & Collaboration:</b>
+- Webpack, ESLint, Prettier
+- Figma, Photoshop, VS Code, WebStorm
+- Jira, Slack, Trello, Zoom, Google Meet
+
+<br>
+
+<b>Frontend Expertise:</b>
+- Angular 2+ - 19, RxJS, NgRx, Angular Material, NG-Zorro, PrimeNG
+- Vue.js, Vue 3, Composition API, Vuex, Vuetify, Nuxt.js
+- TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS, Tailwind, Bootstrap
+- WordPress, Wix, WooCommerce, Theme customization
+
+</p>
 
 ###
 
