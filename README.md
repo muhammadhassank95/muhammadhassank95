@@ -6,6 +6,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/officialahk.https://github.com/officialahk&left_text=Profile%20Views"  />
+</div>
+
+###
+
 <br clear="both">
 
 <p align="left">🔭 Top 2% Talent on Upwork!<br><br>🚀 8+ years of building enterprise-grade frontend applications with Angular 2+ to 19, Vue.js, Vue 3, and modern JavaScript frameworks. I specialize in crafting pixel-perfect, responsive UIs and scalable frontend architectures that enhance performance and user experience.<br><br>🎯 Whether you're building a SaaS platform, a complex dashboard, or a customer facing web app. I bring clean code, thoughtful architecture, and a keen eye for design to every project.<br><br>    📫 How to reach me muhammadhassank95@gmail.com<br>    📄 Know about my experiences Linkedin</p>
@@ -106,15 +112,7 @@
 
 .
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/officialahk/https://github.com/officialahk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/officialahk/https://github.com/officialahk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/officialahk/https://github.com/officialahk/output/pacman-contribution-graph.svg">
-</picture>
+</details>
 
 ###
 
