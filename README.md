@@ -6,12 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/officialahk.https://github.com/officialahk&left_text=Profile%20Views"  />
-</div>
-
-###
-
 <br clear="both">
 
 <p align="left">🔭 Top 2% Talent on Upwork!<br><br>🚀 8+ years of building enterprise-grade frontend applications with Angular 2+ to 19, Vue.js, Vue 3, and modern JavaScript frameworks. I specialize in crafting pixel-perfect, responsive UIs and scalable frontend architectures that enhance performance and user experience.<br><br>🎯 Whether you're building a SaaS platform, a complex dashboard, or a customer facing web app. I bring clean code, thoughtful architecture, and a keen eye for design to every project.<br><br>    📫 How to reach me muhammadhassank95@gmail.com<br>    📄 Know about my experiences Linkedin</p>
@@ -109,6 +103,71 @@
 >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
 >  <img width="12" />
 >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+
+.
+
+<!--Marvel-->
+> <h4>Marvel</h4>
+> <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/muhammadhassank95/muhammadhassank95/main/svg/marvel.png" /></div><br>
+> Description:
+> Asgard portal web for approvals of style guide, brand assurances and review of databases. 
+> <h5>Tech Stacks :</h5>
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+
+.
+
+<!--Blokker-->
+> <h4>Blokker (Ecommerce Store)</h4>
+> <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/muhammadhassank95/muhammadhassank95/main/svg/blokker.png" /></div><br>
+> Description:
+> This is e-commerce store running in Netherlands, worked with the Blokker team as Go lang and Vue.js developer. In this project we used Go land as middle layer and Vue.js on client side.
+> <h5>Tech Stacks :</h5>
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+.
+
+<!--Health-->
+> <h4>Healthcare</h4>
+> <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/muhammadhassank95/muhammadhassank95/main/svg/health.png" /></div><br>
+> Description:
+> Powerful Medical is an innovative app that leverages AI technology to empower healthcare professionals with accurate diagnostics and treatment solutions for cardiovascular diseases
+> <h5>Tech Stacks :</h5>
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" />
+
+.
+
+<!--Fintech-->
+> <h4>Fintech</h4>
+> <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/muhammadhassank95/muhammadhassank95/main/svg/fintech.png" /></div><br>
+> Description:
+> The PayMeNow app serves as a financial wellness and inclusion platform, primarily offering employees early access to their earned wages.
+> <h5>Tech Stacks :</h5>
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+>  <img width="12" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" />
 
 .
 
